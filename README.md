@@ -1,4 +1,4 @@
-# ** Desafio: Aprenda na Prática Programação Orientada a Objetos** #
+# ** Desafio: Aprenda na Prática Programação Orientada a Objetos ** #
 
 ## **📚 Paradigma de Programação Orientado a Objetos (POO)** ##
 A visão de Orientação a Objetos (OO) é aquela de um mundo de objetos que interagem.
